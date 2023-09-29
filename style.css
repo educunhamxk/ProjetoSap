@@ -1,0 +1,13 @@
+/* styles.css */
+
+footer {
+    visibility: hidden;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+.stDeployButton {
+    visibility: hidden;
+}
